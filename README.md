@@ -24,9 +24,14 @@ https://web.archive.org/web/20230924225928/https://www.autometer.de/unix4fun/coh
 https://www.autometer.de/unix4fun/coherent/ftp/vms/
 
 # Why am i forking this?
-Well, i have a large intrest in OS development, and would love to work on something that is existing
+Well, i have a large intrest in OS development, and would love to work on something that is existing, instead of building from scratch.
 
 ## Goals:
 - Make build simpler
 - Make Installing from CD Possible (if not already)
 - Attempt to add some extra hardware support
+- Clean Up Source Files
+
+## Current Issues:
+- Well.. the entire SRC is a complete mess, nightmare fuel IMO
+- No clue how on earth to build the thing with how scattered the SRC all is
