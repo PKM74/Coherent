@@ -31,7 +31,20 @@ Well, i have a large intrest in OS development, and would love to work on someth
 - Make Installing from CD Possible (if not already)
 - Attempt to add some extra hardware support
 - Clean Up Source Files
+- Fix all the Makefiles
 
 ## Current Issues:
 - Well.. the entire SRC is a complete mess, nightmare fuel IMO
 - No clue how on earth to build the thing with how scattered the SRC all is
+- Makefiles are out-of-date and do not function
+
+# So what files are what?
+
+## SRC: 
+My current working tree (based on mwc/romana/relic/d)
+
+## DOC: 
+Documentation (Kinda confusing though)
+
+## MWC: 
+Orignal Files Provided, such as backups of old versions

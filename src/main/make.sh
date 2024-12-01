@@ -1,11 +1,11 @@
-make -j 5 -k -f bin/Makefile
-make -j 5 -k -f conf/Makefile
-make -j 5 -k -f etc/Makefile
-make -j 5 -k -f kernel/USRSYS/Makefile
-make -j 5 -k -f lib/Makefile
-make -j 5 -k -f usr/bin/Makefile
-make -j 5 -k -f usr/dict/Makefile
-make -j 5 -k -f usr/games/Makefile
-make -j 5 -k -f usr/lib/Makefile
-make -j 5 -k -f usr/pub/Makefile
-make -j 5 -k -f usr/src/Makefile
+make -j 5 -f bin/Makefile
+make -j 5 -f conf/Makefile
+make -j 5 -f etc/Makefile
+make -j 5 -f kernel/USRSYS/Makefile
+make -j 5 -f lib/Makefile
+make -j 5 -f usr/bin/Makefile
+make -j 5 -f usr/dict/Makefile
+make -j 5 -f usr/games/Makefile
+make -j 5 -f usr/lib/Makefile
+make -j 5 -f usr/pub/Makefile
+make -j 5 -f usr/src/Makefile
