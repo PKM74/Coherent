@@ -3,15 +3,15 @@ Coherent is a clone of the Unix operating system for IBM PC compatibles and othe
 
 https://en.wikipedia.org/wiki/Coherent_(operating_system)
 
-Manpages:
+## Manpages:
 
 http://www.nesssoftware.com/home/mwc/manpage.php?contents
 
-Manual:
+## Manual:
 
 http://www.nesssoftware.com/home/mwc/manual.php
 
-VM:
+## VM:
 
 https://archiveos.org/coherent/
 
@@ -22,3 +22,11 @@ https://www.autometer.de/unix4fun/coherent/#vbox
 https://web.archive.org/web/20230924225928/https://www.autometer.de/unix4fun/coherent/ftp/vms/
 
 https://www.autometer.de/unix4fun/coherent/ftp/vms/
+
+# Why am i forking this?
+Well, i have a large intrest in OS development, and would love to work on something that is existing
+
+## Goals:
+- Make build simpler
+- Make Installing from CD Possible (if not already)
+- Attempt to add some extra hardware support
