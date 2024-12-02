@@ -18,7 +18,7 @@
 #@
 
 
-CC=gcc
+CC=gcc -fpermissive
 #1.1
 #log
 #@Initial revision
@@ -218,6 +218,8 @@ UNUSED=\
 	more.c\
 	uload.c
 
+# Set VPATH
+VPATH=bin/
 # Primary target.
 all:	$(BIN) $(ETC) $(USRLIB)
 	make SRCPATH=$(SRCPATH)/awk

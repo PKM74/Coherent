@@ -1,0 +1,11 @@
+make -j 5 -f bin/Makefile clean
+make -j 5 -f conf/Makefile clean
+make -j 5 -f etc/Makefile clean
+make -j 5 -f kernel/USRSYS/Makefile clean
+make -j 5 -f lib/Makefile clean
+make -j 5 -f usr/bin/Makefile clean
+make -j 5 -f usr/dict/Makefile clean
+make -j 5 -f usr/games/Makefile clean
+make -j 5 -f usr/lib/Makefile clean
+make -j 5 -f usr/pub/Makefile clean
+make -j 5 -f usr/src/Makefile clean
